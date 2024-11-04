@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://okobeuyu.github.io/HLw/sitemap_index.txt
+Sitemap: https://okobeuyu.github.io/QMP/sitemap_index.txt
+Sitemap: https://okobeuyu.github.io/cIm/sitemap_index.txt
+Sitemap: https://okobeuyu.github.io/klb/sitemap_index.txt
